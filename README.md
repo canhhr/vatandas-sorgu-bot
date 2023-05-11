@@ -24,7 +24,7 @@ Kodlama dili: Python. 7/24 destek hizmetimiz vardır, para iadesi yapılmamaktad
 
 ![image](https://github.com/canhhr/vatandas-sorgu-bot/assets/82213336/47d671f7-c749-4b07-9835-1f04fcb6c940)
 
-![image](https://github.com/canhhr/vatandas-sorgu-bot/assets/82213336/b049580e-5c1a-4654-908d-22e903ac9bb0)
+![image](https://github.com/canhhr/vatandas-sorgu-bot/assets/82213336/e169c067-1f73-47e5-8a7f-23b4d50750b5)
 
 ![image](https://github.com/canhhr/vatandas-sorgu-bot/assets/82213336/8a7c13a4-7f84-44ff-b5b5-a495d5cb0f25)
 
