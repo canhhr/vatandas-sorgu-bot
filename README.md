@@ -1,6 +1,7 @@
 # vatandas-sorgu-bot
 
 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟🌟 🌟 
+
 ➡️ ➡️  VATANDAŞ SORGU DISCORD BOT
 
 KODU DISCORD SUNUCUMUZDA BULABİLİRSİNİZ:
