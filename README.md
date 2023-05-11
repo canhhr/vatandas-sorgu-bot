@@ -16,9 +16,8 @@ https://discord.gg/deyS7ZNzWE
 !dur komudu çalışma şekli; !dur komudu ile, çalışmakta olan !isimsorgu komudunun çalışmasını durdurabilirsiniz. !isimsorgu komudu ile sorgulattığınız isimden fazla sayıda varsa ve bot durmadan bilgileri yazdırıyorsa, botun durması için !dur komudunu yazabilirsiniz.
 !teltcsorgu komudu çalışma şekli; !teltcsorgu (GSM) ile o telefon numarası hattının kayıtlı olduğu vatandaşın TCKN bilgisini discord bot ile sunucunuzda görüntüleyebilirsiniz. GSM kısmına gireceğiniz numaranın başında 0 olmamalıdır.
 !tctelsorgu komudu çalışma şekli; !tctelsorgu (TCKN) ile o TCKN'ye ait vatandaşın GSM bilgisini discord bot ile sunucunuzda görüntüleyebilirsiniz.
-!komutlar komudu çalışma şekli; !komutlar komudu ile bota ait kodları görüntüleyebilirsiniz. 
-Kod eğitim amaçlıdır. Kod, localhost ile SQL Database'inize bağlanıp, o bilgilere ait dataları çekip, discord bot ile sunucunuzda görüntülemenize yaramaktadır. Bu kod ile elde edeceğiniz/elde ettiğiniz bilgilerle yapacağınız işlemlerin sorumlusu sizsiniz.
-Örnek görüntü:
+!komutlar komudu çalışma şekli; !komutlar komudu ile bota ait kodları görüntüleyebilirsiniz.
+Kodlama dili: Python. 7/24 destek hizmetimiz vardır, para iadesi yapılmamaktadır. Kod eğitim amaçlıdır. Kod, localhost ile SQL Database'inize bağlanıp, o bilgilere ait dataları çekip, discord bot ile sunucunuzda görüntülemenize yaramaktadır. Bu kod ile elde ettiğiniz bilgilerin/elde ettiğiniz bilgilerle yapacağınız işlemlerin sorumluluğu size aittir. Örnek görüntü:
 
 ![image](https://github.com/canhhr/vatandas-sorgu-bot/assets/82213336/deeeaf19-7b43-4744-ab65-dc33defd54bf)
 
